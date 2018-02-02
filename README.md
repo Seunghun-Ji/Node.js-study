@@ -2,7 +2,7 @@ This project is a making web page using node.js
 
 ## Table of Contents
 - [Before You Start](#before-you-start)
-- [Let's Start Your Own Project](#let's-start-your-own-project)
+- [Let's Start Your Own Project](#lets-start-your-own-project)
 - [Folder Structure](#folder-structure)
 - [How to use a sample](#how-to-use-a-sample)
 
