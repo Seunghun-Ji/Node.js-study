@@ -14,16 +14,16 @@ you must install 'nvm' program to use node.js
 
 if you are a Window user, you have to input a command to use nvm.
 
-* nvm use [your-node.js-version]
+* `nvm use [your-node.js-version]`
 
 Then you can check whatever nvm is working or not.
 
-* npm --version
+* `npm --version`
 
 After that, install webpack & yarn.
 
-* npm install -g webpack
-* npm install -g yarn
+* `npm install -g webpack`
+* `npm install -g yarn`
 
 ## Let's Start Your Own Project
 
@@ -31,7 +31,7 @@ Now you can make your own project with using node.js
 
 Move to working directory and input a below command.
 
-* yarn add --dev webpack
+* `yarn add --dev webpack`
 
 ## Folder Structure
 
